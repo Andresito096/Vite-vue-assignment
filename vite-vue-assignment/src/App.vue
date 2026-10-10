@@ -29,6 +29,8 @@ function toggleMessage() {
         <li>Understanding Vue's reactivity system</li>
         <li>Creating and using components</li>
         <li>Using Vite to create and manage Vue projects efficiently</li>
+        <li>Adding HTML and CSS to enhance the app's structure and style</li>
+        <li>Implementing interactivity with Vue's reactivity system</li>
       </ul>
 
       <p>{{ message }}</p>
