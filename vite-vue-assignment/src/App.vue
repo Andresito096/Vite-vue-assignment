@@ -51,6 +51,11 @@ function toggleMessage() {
   color: #222;
 }
 
+li {
+  margin-bottom: 0.5rem;
+  line-height: 1.6;
+}
+
 .author {
   font-style: italic;
   margin-top: -0.5rem;
